@@ -10,6 +10,6 @@ sudo keytool -import -alias ca -file <location of certificate> -keystore <locati
 <br>
 Then just run the AutoLogin.jar
 <br>
-<img src="http://cl.ly/image/2E1t1D002b3d">
+<img src="http://i.imgur.com/D602O1L.png?1">
 <br>
-<img src="http://cl.ly/image/1F3O3K330y45">
+<img src="http://i.imgur.com/A42NJ10.png">
